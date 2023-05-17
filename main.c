@@ -20,7 +20,7 @@ int lsh_help(char **args);
 int lsh_exit(char **args);
 int lsh_pwd(char **args);
 int lsh_rm(char **args);
-int lsh_rm(char **args);
+int lsh_rmdir(char **args);
 
 /*
   List of builtin commands, followed by their corresponding functions.
